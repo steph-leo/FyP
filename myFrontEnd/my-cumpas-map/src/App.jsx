@@ -1,7 +1,5 @@
-import react from 'react';
-import logo from './logo.svg';
+// src/App.jsx
 import React, { useState } from 'react';
-import './App.css';
 import Layout from './components/layout/Layout';
 import SearchBar from './components/navigation/SearchBar';
 import NearbyPlaces from './components/navigation/NearbyPlaces';
